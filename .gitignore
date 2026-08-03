@@ -1,0 +1,7 @@
+*.exe
+*.tar.gz
+BPB-Warp-Scanner
+*.conf
+.DS_Store
+.vscode/
+.idea/
